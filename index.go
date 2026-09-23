@@ -17,6 +17,10 @@ func main(){ //da qui parte il programma
 		x++
 		fmt.Println(x)
 	}
+
+	for i:=0; i < 100; i++ {
+		fmt.Println(i)
+	}
 }
 
 
